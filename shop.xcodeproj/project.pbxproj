@@ -12,6 +12,7 @@
 		E54C998E21037EE100D62456 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E54C998C21037EE100D62456 /* Main.storyboard */; };
 		E54C999021037EE100D62456 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E54C998F21037EE100D62456 /* Assets.xcassets */; };
 		E54C999321037EE100D62456 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E54C999121037EE100D62456 /* LaunchScreen.storyboard */; };
+		E54C999B21037F3800D62456 /* shopTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54C999A21037F3800D62456 /* shopTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E54C998F21037EE100D62456 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E54C999221037EE100D62456 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E54C999421037EE100D62456 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E54C999A21037F3800D62456 /* shopTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = shopTableViewController.swift; path = ../../ColorApp/shopping/shopping/shopping/shopTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				E54C998821037EE100D62456 /* AppDelegate.swift */,
+				E54C999A21037F3800D62456 /* shopTableViewController.swift */,
 				E54C998A21037EE100D62456 /* ViewController.swift */,
 				E54C998C21037EE100D62456 /* Main.storyboard */,
 				E54C998F21037EE100D62456 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			files = (
 				E54C998B21037EE100D62456 /* ViewController.swift in Sources */,
 				E54C998921037EE100D62456 /* AppDelegate.swift in Sources */,
+				E54C999B21037F3800D62456 /* shopTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
